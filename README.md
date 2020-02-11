@@ -11,7 +11,7 @@ Tecnologias:
 - Lombok
 - Spock Unit Test / Gradle
 - JWT Token
-
+.
 <h2>Descripción de la API<h2>
   <p>La api restfull cuenta con endpoint que ejecutan las llamadas necesarias para listar, crear y actualizar usuarios mediante llamadas json. Existen 4 handlers dentro del controlador que trabajan con los usuarios. Ademas se expone un controlador JwtAuthenticationController encargado de generar un token JWT utilizando un user y password configurado en el proyecto</p>
   
